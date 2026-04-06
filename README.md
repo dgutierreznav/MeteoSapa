@@ -33,11 +33,11 @@ Este proyecto es una aplicación web para la visualización de datos meteorológ
 
 ## Instrucciones para poner en marcha el proyecto
 
-1. Instala XAMPP e inicia los servicios:
+1. *Instala XAMPP e inicia los servicios**:
    - Apache → Start  
    - MySQL → Start
 
-2. Importa la base de datos:
+2. **Importa la base de datos**:
    - Los scripts para crear la base de datos y las tablas se encuentran en:
      ```
      BBDD/script.sql
@@ -64,32 +64,38 @@ Características:
 
 Es recomendable utilizar un entorno virtual Python:
 
-1. Crear el entorno virtual:
+1. **Crear el entorno virtual**:
+   
    ```bash
    python3 -m venv venv
    ```
 
-2. Activar el entorno virtual:
+2. **Activar el entorno virtual**:
    - Linux / macOS:
+     
      ```bash
      source venv/bin/activate
      ```
    - Windows (PowerShell):
+     
      ```powershell
      .\venv\Scripts\Activate.ps1
      ```
 
-3. Instalar dependencias:
+3. **Instalar dependencias**:
+   
    ```bash
    pip install faker
    ```
 
-4. Ejecutar el script:
+4. **Ejecutar el script**:
+   
    ```bash
    python aleatoridades.py
    ```
 
-5. Desactivar el entorno virtual:
+5. **Desactivar el entorno virtual**:
+   
    ```bash
    deactivate
    ```
