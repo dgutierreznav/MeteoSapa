@@ -30,6 +30,42 @@ Este proyecto es una aplicación web para la visualización de datos meteorológ
 - pip (gestor de paquetes de Python)
 
 ---
+## Estructura del proyecto (resum)
+
+Árbol de archivos y carpetas principales:
+
+```
+
+MeteoSapa
+├── /BBDD
+│   └── aletoriedades.py
+│   └── scripts.sql
+├── /styles
+│   └── styles.css
+├── /imatges
+│   └── fondo7.jpg
+│   └── logo.png
+├── /login               
+│   └── login.php
+│   └── login_processar.php
+│   └── logout.php
+│   └── registre.php
+│   └── registre_processar.php
+├── index.php
+├── header.php
+├── footer.php
+├── connexio.php
+├── contacte.php
+├── humitat.php
+├── precipitacio.php
+├── preferits.php
+├── preferits_afegir.php
+├── preferits_eliminar.php
+├── pressio.php
+├── temperatura.php
+└── vent.php
+
+```
 
 ## Instrucciones para poner en marcha el proyecto
 
@@ -117,43 +153,6 @@ Una vez el proyecto está en funcionamiento, se puede acceder a:
   ```
 
 (Sustituye `ip_servidor` por la dirección IP o `localhost` según tu entorno.)
-
----
-
-## Estructura del proyecto (resum)
-
-Árbol de archivos y carpetas principales:
-
-```
-MeteoSapa
-├── /BBDD
-│   └── aletoriedades.py
-│   └── scripts.sql
-├── /styles
-│   └── styles.css
-├── /imatges
-│   └── fondo7.jpg
-│   └── logo.png
-├── /login               
-│   └── login.php
-│   └── login_processar.php
-│   └── logout.php
-│   └── registre.php
-│   └── registre_processar.php
-├── index.php
-├── header.php
-├── footer.php
-├── connexio.php
-├── contacte.php
-├── humitat.php
-├── precipitacio.php
-├── preferits.php
-├── preferits_afegir.php
-├── preferits_eliminar.php
-├── pressio.php
-├── temperatura.php
-└── vent.php
-```
 
 ---
 
