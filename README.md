@@ -30,7 +30,7 @@ Este proyecto es una aplicación web para la visualización de datos meteorológ
 - pip (gestor de paquetes de Python)
 
 ---
-## Estructura del proyecto (resum)
+## Estructura del proyecto
 
 Árbol de archivos y carpetas principales:
 
