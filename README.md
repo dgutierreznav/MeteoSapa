@@ -8,7 +8,7 @@ Este proyecto es una aplicación web para la visualización de datos meteorológ
 
 - [Oleguer Esteo](https://olegueresteo.es/)   
 - [Sergi Gallart](https://sergigallart.es/)
-- [David Gutierrez](https://davidgutierrez.es/)
+- [David Gutiérrez](https://davidgutierrez.es/)
 
 ---
 
