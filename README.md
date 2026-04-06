@@ -14,12 +14,12 @@ Este proyecto es una aplicación web para la visualización de datos meteorológ
 
 ## Tecnologías utilizadas
 
-- PHP  
-- MySQL  
-- HTML / CSS  
-- Python (para generar datos de prueba)  
-- Faker (librería de Python)  
-- XAMPP (Apache + MySQL + PHP)
+- **PHP**
+- **MySQL** 
+- **HTML / CSS**  
+- **Python** (para generar datos de prueba)  
+- **Faker** (librería de Python)  
+- **XAMPP** (Apache + MySQL + PHP)
 
 ---
 
